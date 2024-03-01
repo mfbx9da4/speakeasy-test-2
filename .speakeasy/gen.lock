@@ -1,0 +1,66 @@
+lockVersion: 2.0.0
+id: 6bf45289-2620-4f21-b174-c65d9a93abb1
+management:
+  docChecksum: 1bdb7a6f8bf3995d4b40475228403253
+  docVersion: 1.0.0
+  speakeasyVersion: internal
+  generationVersion: 2.275.4
+  releaseVersion: 0.0.1
+  configChecksum: 7a0e0a591cc395f597593a56c60a0a9a
+features:
+  typescript:
+    core: 3.6.1
+    flattening: 2.81.1
+    globalServerURLs: 2.82.3
+    responseFormat: 0.1.0
+generatedFiles:
+  - src/sdk/pets.ts
+  - src/sdk/sdk.ts
+  - .eslintrc.js
+  - .npmignore
+  - RUNTIMES.md
+  - package.json
+  - src/index.ts
+  - src/lib/base64.ts
+  - src/lib/config.ts
+  - src/lib/encodings.ts
+  - src/lib/event-streams.ts
+  - src/lib/http.ts
+  - src/lib/retries.ts
+  - src/lib/schemas.ts
+  - src/lib/sdks.ts
+  - src/lib/security.ts
+  - src/lib/url.ts
+  - src/sdk/index.ts
+  - src/models/errors/sdkerror.ts
+  - src/models/errors/sdkvalidationerror.ts
+  - src/types/blobs.ts
+  - src/types/decimal.ts
+  - src/types/index.ts
+  - src/types/operations.ts
+  - src/types/rfcdate.ts
+  - tsconfig.json
+  - src/models/operations/listpets.ts
+  - src/models/operations/createpets.ts
+  - src/models/operations/showpetbyid.ts
+  - src/models/components/error.ts
+  - src/models/components/pet.ts
+  - src/models/components/httpmetadata.ts
+  - src/models/errors/index.ts
+  - src/models/operations/index.ts
+  - src/models/components/index.ts
+  - docs/models/operations/listpetsrequest.md
+  - docs/models/operations/listpetsresponse.md
+  - docs/models/operations/createpetsresponse.md
+  - docs/models/operations/showpetbyidrequest.md
+  - docs/models/operations/showpetbyidresponse.md
+  - docs/models/components/errort.md
+  - docs/models/components/pet.md
+  - docs/models/components/httpmetadata.md
+  - docs/sdks/a/README.md
+  - docs/sdks/pets/README.md
+  - USAGE.md
+  - .gitattributes
+  - src/hooks/hooks.ts
+  - src/hooks/types.ts
+  - src/hooks/index.ts
